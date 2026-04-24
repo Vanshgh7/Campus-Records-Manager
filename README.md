@@ -1,16 +1,16 @@
-# Campus Recoders Manager in Java 🎓
+# Campus Recoders Manager in Java 
 
 A straightforward Management System built with Java and MySQL, enabling users to easily manage student records through a simple interface.
 
 ---
 
-## Introduction ✨
+## Introduction 
 
 This application empowers you to create, view, update, and remove student details. Track essential information such as name, major, contact, GPA, and date of birth, all stored securely in a relational database.
 
 ---
 
-## Features 🚀
+## Features 
 
 - Add new students to the system  
 - View detailed student profiles  
@@ -20,14 +20,14 @@ This application empowers you to create, view, update, and remove student detail
 
 ---
 
-## Requirements 📋
+## Requirements 
 
 - Java 8 or newer  
 - MySQL Server  
 
 ---
 
-## Installation 🛠️
+## Installation 
 
 1. **Clone the repository:**  
  - https://github.com/Vanshgh7/Campus-Records-Manager.git
@@ -39,7 +39,7 @@ This application empowers you to create, view, update, and remove student detail
 4. **Build and run the project:**  
 - Use your favorite Java IDE or the command line.
 
-## Usage 📚
+## Usage 
 
 - Start the application  
 - Choose an operation from the main menu  
@@ -47,7 +47,7 @@ This application empowers you to create, view, update, and remove student detail
 
 ---
 
-## Database Columns 🗂️
+## Database Columns 
 
 The project works with a database table that contains the following fields:
 
@@ -61,7 +61,7 @@ The project works with a database table that contains the following fields:
 
 ---
 
-## Future Enhancements 🔮
+## Future Enhancements 
 
 Looking ahead, the following improvements are planned:
 
